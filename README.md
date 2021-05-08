@@ -1,8 +1,9 @@
 # RPG-Java-Game
 An RPG style Java game in which two automated armies comprised of different enemy types battle (turn-based style) until there is a winner. This is a text based, console app.
 
-## Game Rules Summary
+## Gameplay Explanation
 
+### Game Rules Summary
 - Create 2 armies, each consisting of 20 troops (order as described above). Print out the army.
 - Each round, pick the next troop in line from each army to battle
 - The attacking troop uses its damage amount to lower the defender’s health.
