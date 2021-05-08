@@ -1,5 +1,4 @@
 //Author: Danny Nsouli
-//BHG Code Challenge
 import java.util.ArrayList;
 import java.util.LinkedList;
 
