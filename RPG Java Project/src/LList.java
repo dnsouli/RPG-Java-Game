@@ -1,5 +1,4 @@
 //Author: Danny Nsouli
-//BHG Code Challenge
 public class LList {
 
 	public TroopNode head;
