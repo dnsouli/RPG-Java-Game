@@ -1,5 +1,4 @@
 //Author: Danny Nsouli
-//BHG Code Challenge
 public class TroopNode {
 	//All attributes specified for each troop node
 	public String name;
